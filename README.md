@@ -8,7 +8,7 @@ The pipeline processes raw data through **cleaning**, **transformation**, and **
 ## **Architecture**
 
 <!-- Placeholder for architecture diagram -->
-![Pipeline Architecture](assets/postgresql_pipeline_architecture.png)
+![Pipeline Architecture](Assets/postgresql_pipeline_architecture.png)
 
 > **Highlights of the Pipeline:**  
 > - **Raw Data** → CSV/Raw Tables  
