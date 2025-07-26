@@ -120,9 +120,3 @@ flowchart LR
 * Add **SQL test cases** for data validation.
 * Build a **BI dashboard** (Power BI, Metabase) for real-time analytics.
 * Extend the sales estimation logic with **predictive modeling**.
-
----
-
-## **License**
-
-This project is released under the **MIT License**.
